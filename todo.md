@@ -1,0 +1,81 @@
+# Current Change List
+
+- [x] Restore the supplied original website visual design as the baseline.
+- [x] Keep the existing visual language unchanged while applying future user-approved functional, code-quality and performance changes.
+- [x] Collect the user’s next requested changes before beginning further implementation.
+- [x] Remove percentage labels and progress bars from current-project cards.
+- [x] Add a reusable project-video section that can accept a video URL or uploaded video source.
+- [x] Upgrade the footer with a premium navy/blue treatment while keeping the original website style.
+- [x] Receive the approved logo asset.
+- [ ] Receive the verified WhatsApp number or direct link.
+- [x] Add a floating WhatsApp contact control at the lower-right corner with a temporary contact fallback.
+- [x] Integrate the supplied logo into the navigation and premium footer.
+- [x] Replace the framed logo placement with the newly supplied transparent logo in the navigation and footer.
+- [x] Increase the desktop navigation logo while ensuring the complete mark and wordmark remain visible.
+- [x] Add a design-consistent first-load animation for the website.
+- [x] Upgrade the navigation bar with a premium treatment while preserving the existing blue/navy design.
+- [x] Refine the Contact Us button and add restrained navigation micro-animations.
+- [x] Add staged skeleton loading states before the main components appear.
+- [x] Reduce the navigation background opacity and increase its corner roundness.
+- [x] Replace the floating WhatsApp pill with a compact original-style WhatsApp icon.
+- [x] Keep WhatsApp and Back-to-Top controls fixed while scrolling, stacked at the lower-right corner, and slightly smaller.
+- [x] Replace the current startup loading visual with the supplied three-bar blue animation.
+- [ ] Receive genuine approved testimonial text, client name and designation for future testimonial content.
+- [x] Restore the original-style testimonial section layout with an empty feedback-ready state.
+- [x] Remove the project-video section from the page and navigation.
+- [x] Move the testimonial area to the former video-section location.
+- [x] Add a hover-pausable testimonial carousel structure for future genuine approved feedback.
+- [x] Replace the static empty testimonial message with a visible neutral moving-card skeleton loop that pauses on hover.
+- [x] Add the user-provided Nawaz Chattha client record: 25 homes completed and a 5/5 rating, without inventing a quotation.
+- [x] Document the simple code entry format for future genuine approved testimonials.
+- [x] Rebuild the testimonial stage to match the supplied pale-blue, rounded white panel and oversized quote-mark reference.
+- [x] Restyle testimonial cards with a compact portrait-style layout while preserving only genuine supplied feedback data.
+- [x] Preserve continuous looping and hover pause in the redesigned testimonial composition.
+- [x] Replace the existing blue construction layout with the supplied warm cream editorial reference design.
+- [x] Rebuild the header and rounded hero with an overlapping project-proof panel.
+- [x] Create the editorial project gallery and dark/light split About section from the supplied reference.
+- [x] Refit the genuine testimonial carousel, current projects and fixed contacts to the new design system.
+- [x] Increase and refine logo scale in the header and footer.
+- [x] Balance the About image size and responsive behavior across desktop and mobile.
+- [x] Strengthen professional responsive layout behavior across page sections.
+- [x] Add button animations with horizontal hover-arrow transitions.
+- [x] Add a subtle looping gradient accent to the “Dream Project” hero text.
+- [x] Add the approved phone number +92 0301 2345678 to the Contact section and footer.
+- [x] Add a clearly editable business-address placeholder to the Contact section and footer.
+- [x] Refine the hero to match the supplied rounded image, left headline, dual-action and overlapping proof-card reference.
+- [x] Add a clearly editable business-email placeholder to the Contact section and footer.
+- [x] Increase the header and footer logo scale further.
+- [x] Correct the desktop hero to the supplied wide-image and prominent right-bottom proof-card overlap.
+- [x] Redesign the footer into the supplied dark structured multi-column reference style.
+- [x] Restore the earlier compact, balanced Who We Are hero card while preserving the new footer design.
+- [x] Display the phone number as plain contact information without button styling.
+- [x] Add a premium detailed construction-services section and navigation link.
+- [x] Center and enlarge the footer logo on mobile screens.
+- [x] Fix mobile footer logo overflow and stack footer content into a clean single-column layout.
+- [x] Reattach the rounded hero image to the navigation surface and tighten/round the navbar.
+- [x] Add a subtle warm theme-consistent pattern to the footer.
+- [x] Square the upper hero corners while preserving rounded lower corners.
+- [x] Add a white Al-Raheem logo favicon.
+- [x] Make the complete navigation logo mark and wordmark visible without cropping.
+- [x] Set the user-supplied building-mark image as the browser favicon.
+- [x] Reorder navigation and page sections to Home, About, Services, Portfolio, Current Projects, Testimonials, and Contact.
+- [x] Replace the circular Back-to-Top control with the supplied animated text-and-arrow design in the warm brand palette.
+- [x] Correct Back-to-Top arrow directions and make its mobile layout responsive.
+- [x] Restyle Explore All Projects with the supplied animated icon-wrapper button design.
+- [x] Remove the duplicate Back-to-Top control from the Contact section.
+- [x] Restore the previous simple Explore All Projects action design.
+- [x] Animate project details in a modal with a blue background while open.
+- [x] Replace the blue project-detail backdrop with a professional blur treatment.
+- [x] Add animated service-specific image previews on hover, focus and touch selection.
+- [x] Replace the persistent service preview panel with image overlays shown only on the interacted service row.
+- [x] Refine the Contact section with a more attractive premium visual treatment.
+- [x] Add an animated looping set of attractive Hero headline words in place of Dream.
+- [x] Replace the Hero word loop with a writing animation and dissolve transition; remove Lasting Legacy.
+- [x] Remove gradient from the Hero typed loop and apply it to eligible lower-page italic words, excluding Contact.
+- [x] Make the mobile Back-to-Top and WhatsApp controls compact and correctly stacked, matching the supplied reference.
+- [x] Restore the animated gradient to the Hero typed loop words.
+- [x] Upgrade the responsive mobile navigation dropdown and toggle with a premium animated treatment.
+- [x] Create a comprehensive README covering sections, technology, styling, fonts, assets, interactions and maintenance.
+
+- [x] Remove the separate scroll-state floating navbar background while preserving the hero-attached navbar.
+- [x] Recover the static frontend workspace after the accidental feature-upgrade attempt.
