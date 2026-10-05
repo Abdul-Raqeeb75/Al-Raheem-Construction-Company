@@ -158,7 +158,7 @@ export default function Home() {
           <img className="editorial-hero__image" src={brand.heroImage} alt="Contemporary residential exterior by Al-Raheem Construction" />
           <div className="editorial-hero__shade" />
           <div className="editorial-hero__content">
-            <span>AL-RAHEEM CONSTRUCTION</span>
+            <span>Al-Raheem Construction</span>
             <h1>Find Your <span className="editorial-hero__loop" aria-live="off"><span className={`editorial-hero__loop-word${heroWordPhase === "dissolving" ? " is-dissolving" : ""}`}>{typedHeroWord}</span></span><em>Build Today.</em></h1>
             <p>We plan and deliver thoughtfully crafted residential and commercial spaces around the way you want to live and work.</p>
             <div className="editorial-hero__actions">
@@ -356,7 +356,7 @@ export default function Home() {
           color: "#F4F1EB",
           padding: "8px 16px",
           borderRadius: "24px",
-          fontSize: "14px",
+          fontSize: "var(--text-sm)",
           fontWeight: "500",
           whiteSpace: "nowrap",
           opacity: isWaHovered ? 1 : 0,
